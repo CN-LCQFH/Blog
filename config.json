@@ -1,6 +1,12 @@
 {
-    "title":"Blog Title",
-    "subTitle":"Blog description",
-    "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "GMEEK_VERSION":"last"
+    "title":"风绘のBlog",
+    "subTitle":"欲买桂花同载酒，终不似，少年游",
+    "avatarUrl":"http://q.qlogo.cn/headimg_dl?dst_uin=3986554524&spec=640&img_type=jpg",
+    "GMEEK_VERSION":"last",
+    "singlePage":["about"],
+    "email":"a@lcqh.top",
+    "startSite":"04/06/2025",
+    "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekBSZ.js'></script>",
+    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>" ,
+    "bottomText":"转载请标明原处"
 }
