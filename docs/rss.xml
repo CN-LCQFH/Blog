@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://CN-LCQFH.github.io/Blog</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://CN-LCQFH.github.io/Blog</link></image><lastBuildDate>Sat, 05 Apr 2025 17:57:32 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>关于</title><link>https://CN-LCQFH.github.io/Blog/post/guan-yu.html</link><description>`Gmeek-html&lt;img src='https://t.alcy.cc/pc'&gt;`
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>风绘のBlog</title><link>https://CN-LCQFH.github.io/Blog</link><description>欲买桂花同载酒，终不似，少年游</description><copyright>风绘のBlog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>http://q.qlogo.cn/headimg_dl?dst_uin=3986554524&amp;spec=640&amp;img_type=jpg</url><title>avatar</title><link>https://CN-LCQFH.github.io/Blog</link></image><lastBuildDate>Sat, 05 Apr 2025 18:03:05 +0000</lastBuildDate><managingEditor>风绘のBlog</managingEditor><ttl>60</ttl><webMaster>风绘のBlog</webMaster><item><title>关于</title><link>https://CN-LCQFH.github.io/Blog/about.html</link><description>`Gmeek-html&lt;img src='https://t.alcy.cc/pc'&gt;`
 ## 基本信息
 
 - **QQ**: [3986554524](https://api.tangdouz.com/qqtz.php?qq=3986554524)
@@ -27,4 +27,4 @@
 
 ## 风绘之境MC
 
-我正在开设一个MC服务器，名为 **风绘之境-原版生电**，服务器地址为：`mcs.mikufun.top`（leaves1.21.4版本）。</description><guid isPermaLink="true">https://CN-LCQFH.github.io/Blog/post/guan-yu.html</guid><pubDate>Sat, 05 Apr 2025 17:54:22 +0000</pubDate></item></channel></rss>
+我正在开设一个MC服务器，名为 **风绘之境-原版生电**，服务器地址为：`mcs.mikufun.top`（leaves1.21.4版本）。</description><guid isPermaLink="true">https://CN-LCQFH.github.io/Blog/about.html</guid><pubDate>Sat, 05 Apr 2025 17:54:22 +0000</pubDate></item></channel></rss>
